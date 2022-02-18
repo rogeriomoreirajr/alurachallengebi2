@@ -28,7 +28,7 @@ O Desafio nos entregou dois arquivos CSV:
 
 ## 📊 Resultado
 > _Clique na imagem para acessar o dashboard_
-<div><a href = "https://app.powerbi.com/links/VE8oBF_Prz?ctid=1ffab38f-e920-41be-9255-3aba36306b88&pbi_source=linkShare">
+<div><a href = "https://app.powerbi.com/view?r=eyJrIjoiNDcwNmFiNjEtODgxNi00OGVhLTg4OGUtM2I5OGFmOTYyMzZlIiwidCI6IjFmZmFiMzhmLWU5MjAtNDFiZS05MjU1LTNhYmEzNjMwNmI4OCJ9&pageName=ReportSectiona03887976dcd9d368c09">
 <img align="center" src="https://github.com/rogeriomoreirajr/alurachallengebi2/blob/main/imagens/Screenshot_1.png?raw=true">
 <img align="center" src="https://github.com/rogeriomoreirajr/alurachallengebi2/blob/main/imagens/Screenshot_4.png?raw=true">
 <img align="center" src="https://github.com/rogeriomoreirajr/alurachallengebi2/blob/main/imagens/Screenshot_2.png?raw=true">
