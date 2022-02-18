@@ -27,6 +27,7 @@ O Desafio nos entregou dois arquivos CSV:
     - É claro que o objetivo desse Desafio é o aprendizado e exercício, e não, de fato, descobrir uma “fórmula” do sucesso. Para explicar isso no gráfico, usei um botão na primeira tela para trazer um texto explicando isso.
 
 ## 📊 Resultado
+> _Clique na imagem para acessar o dashboard_
 <div><a href = "https://app.powerbi.com/links/VE8oBF_Prz?ctid=1ffab38f-e920-41be-9255-3aba36306b88&pbi_source=linkShare">
 <img align="center" src="https://github.com/rogeriomoreirajr/alurachallengebi2/blob/main/imagens/Screenshot_1.png?raw=true">
 <img align="center" src="https://github.com/rogeriomoreirajr/alurachallengebi2/blob/main/imagens/Screenshot_4.png?raw=true">
