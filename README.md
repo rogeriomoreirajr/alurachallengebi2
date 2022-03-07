@@ -147,4 +147,11 @@ Nas duas primeiras telas decidi usar um gráfico de dispersão para relacionar a
 
 Uma linha mostrando a média em cada eixo ajuda e dividir os quadrantes. Além disso, tooltips personalizadas dão mais informações tanto sobre os restaurantes, as cidades e os gêneros culinários.
 
-Por fim, a última tela dá um panorama geral sobre o mercado indiano, com os principais indicadores. 
+Por fim, a última tela dá um panorama geral sobre o mercado indiano, com os principais indicadores.
+
+# 🍦Semanas 3 e 4 - Alura Skimo
+<div><a href = "https://app.powerbi.com/view?r=eyJrIjoiM2ZlN2U1NjYtYmNhNS00NjYwLWIwOWMtM2EzZDExZmI1ZTQ0IiwidCI6ImJmOTE3MWEwLTFhNzItNGE0Mi1hNGEzLTEwNTllNDllMjQzMCJ9">
+<img align="center" src="https://github.com/rogeriomoreirajr/alurachallengebi2/blob/main/Semana%202/imagens/semana3-1.png?raw=true"></a>
+</div>
+
+_Trabalho em andamento_
