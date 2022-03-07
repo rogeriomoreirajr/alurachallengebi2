@@ -2,6 +2,7 @@
 
 - [Semana 1](#semana-1---alura-filmes)
 - [Semana 2](#semana-2---alura-foods)
+- [Semanas 3 e 4](#semanas-3-e-4---alura-skimo)
 
 Desafio da Alura, em quatro semanas, para colocar em prática o que aprendemos sobre BI. O foco está em limpar e modelar os bancos de dados e também pensar nas visualizações que vão responder as necessidades do negócio.
 
@@ -151,7 +152,7 @@ Por fim, a última tela dá um panorama geral sobre o mercado indiano, com os pr
 
 # 🍦Semanas 3 e 4 - Alura Skimo
 <div><a href = "https://app.powerbi.com/view?r=eyJrIjoiM2ZlN2U1NjYtYmNhNS00NjYwLWIwOWMtM2EzZDExZmI1ZTQ0IiwidCI6ImJmOTE3MWEwLTFhNzItNGE0Mi1hNGEzLTEwNTllNDllMjQzMCJ9">
-<img align="center" src="https://github.com/rogeriomoreirajr/alurachallengebi2/blob/main/Semana%202/imagens/semana3-1.png?raw=true"></a>
+<img align="center" src="https://github.com/rogeriomoreirajr/alurachallengebi2/blob/main/imagens/semana3-1.png?raw=true"></a>
 </div>
 
 _Trabalho em andamento_
